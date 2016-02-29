@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pausaniaegraeci02amasgoog_0023.png"; bbox 0 0 2609 4692; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 115 1144 1268 1897">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 115 1144 1268 1897">
+     <span class='ocr_line' id='line_1_1' title="bbox 376 1144 1016 1330; baseline -0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 376 1144 1016 1330; x_wconf 52' lang='lat' dir='ltr'><strong>n‘AffizAm&#39;or</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 115 1470 1263 1636; baseline 0.01 -11"><span class='ocrx_word' id='word_1_2' title='bbox 115 1509 624 1632; x_wconf 71' lang='grc' dir='ltr'><strong>ΕΛΛΑΔΟΣ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 668 1470 1263 1636; x_wconf 68' lang='lat' dir='ltr'><strong>nsspfflrflzmz</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 243 1680 1268 1897; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 243 1772 305 1897; x_wconf 63' lang='lat' dir='ltr'><strong>11x</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 366 1800 422 1893; x_wconf 83' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_6' title='bbox 504 1800 541 1891; x_wconf 88' lang='lat'>1</span> <span class='ocrx_word' id='word_1_7' title='bbox 625 1801 682 1891; x_wconf 83' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_8' title='bbox 739 1764 787 1892; x_wconf 76' lang='grc' dir='ltr'>Κ</span> <span class='ocrx_word' id='word_1_9' title='bbox 841 1714 983 1892; x_wconf 66' lang='grc' dir='ltr'>Μ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1067 1803 1121 1896; x_wconf 76' lang='lat'><strong>13.¹</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1265 1680 1268 1693; x_wconf 20' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1310 4692">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1310 4692">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1310 4692; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1310 4692; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 15 3689 1277 4666">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 15 3689 1277 4666">
+     <span class='ocr_line' id='line_1_5' title="bbox 15 3689 1277 4666; baseline 0.001 -465"><span class='ocrx_word' id='word_1_13' title='bbox 15 3689 79 4666; x_wconf 48' lang='grc' dir='ltr'><em>ζ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 172 4142 292 4219; x_wconf 53' lang='lat' dir='ltr'><strong>Toum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 321 4131 419 4243; x_wconf 67' lang='lat' dir='ltr'><strong>HJ.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1042 4126 1070 4188; x_wconf 65' lang='grc' dir='ltr'><strong>Δ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1275 4178 1277 4181; x_wconf 94' lang='grc'>-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
